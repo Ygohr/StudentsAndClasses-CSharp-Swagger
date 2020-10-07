@@ -1,4 +1,4 @@
-# Technical Challenge - Marlin
+# Students and Classes with C# + Swagger
 A **C# Entity .NETCore API** for Students and Classes, using **Swagger, Authentications and SQLServer**.
 
 ## -> Technologies
