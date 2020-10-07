@@ -1,9 +1,8 @@
 # Technical Challenge - Marlin
 A **C# Entity .NETCore API** for Students and Classes, using **Swagger, Authentications and SQLServer**.
-Developed by **Ygohr Medeiros** for technical challenge of **Marlin**.
 
 ## -> Technologies
-This project uses **C# Asp.NET-Core with Swagger**, containing **Authentications/Authorization ** with ** JWT Bearer Token**. For the database: **SQLServer**.
+This project uses **C# Asp.NET-Core with Swagger**, containing **Authentications/Authorization with JWT Bearer Token**. For the database: **SQLServer**.
 
 ## -> Dependecies:
 To run the project you'll need to have installed:
