@@ -17,7 +17,7 @@ To run the project you'll need to have installed:
 - SQL
 
 ## -> How to
-The API have some methods that can be accessed with **Token Authorization** by the route Login. To do so, you'll need to provide a login information that matches in database.
+The API have some methods that can be accessed with **Token Authorization** by Login route. To do so, you'll need to provide a login information that matches in database.
 After getting the token, you need to authorize the access to methods by the button **"Authorize"** in the header of **SwaggerUI**, for example:
  **> Bearer TokenKey**
 The access **without token authorization is not possible.**
